@@ -1,0 +1,1053 @@
+20:59:59.796 Got a kill message. Killing runner.
+21:01:12.519 Checking updates...
+21:01:14.878 # Specification Heading
+21:01:14.879 ## Vowel counts in single word
+21:01:14.879 * Vowels in English language are "aeiou".
+
+21:01:14.888 * The word "gauge" has "3" vowels.
+
+21:01:14.891 ## Vowel counts in multiple word
+21:01:14.892 * Vowels in English language are "aeiou".
+
+21:01:14.893 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:01:16.332 Plugin [Html Report] with pid [81556] has exited
+21:01:16.434 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:01:16.434 Scenarios:	2 executed	2 passed	0 failed	0 skipped
+21:01:16.434 
+Total time taken: 77ms
+21:06:06.266 Checking updates...
+21:06:08.297 # Specification Heading
+21:06:08.297 ## Vowel counts in single word
+21:06:08.298 * Vowels in English language are "aeiou".
+
+21:06:08.306 * The word "gauge" has "3" vowels.
+
+21:06:08.309 ## Vowel counts in multiple word
+21:06:08.309 * Vowels in English language are "aeiou".
+
+21:06:08.310 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:06:08.312 * foo
+21:06:08.314 # Specification Heading
+21:06:08.314 ## Scenario Heading
+21:06:08.314 * goo
+
+21:06:08.315 * hoo
+21:06:08.419 Plugin [Html Report] with pid [81867] has exited
+21:06:08.519 Specifications:	2 executed	2 passed	0 failed	0 skipped
+21:06:08.519 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+21:06:08.519 
+Total time taken: 79ms
+21:06:29.776 No specifications found in spec/.
+21:06:40.088 Checking updates...
+21:06:40.910 # Specification Heading
+21:06:40.911 ## Vowel counts in single word
+21:06:40.911 * Vowels in English language are "aeiou".
+
+21:06:40.918 * The word "gauge" has "3" vowels.
+
+21:06:40.921 ## Vowel counts in multiple word
+21:06:40.922 * Vowels in English language are "aeiou".
+
+21:06:40.922 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:06:40.924 * foo
+21:06:40.926 # Specification Heading
+21:06:40.926 ## Scenario Heading
+21:06:40.927 * goo
+
+21:06:40.928 * hoo
+21:06:41.034 Plugin [Html Report] with pid [82118] has exited
+21:06:41.139 Specifications:	2 executed	2 passed	0 failed	0 skipped
+21:06:41.139 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+21:06:41.139 
+Total time taken: 88ms
+21:10:28.798 Checking updates...
+21:10:29.890 # Specification Heading
+21:10:29.891 ## Vowel counts in single word
+21:10:29.892 * Vowels in English language are "aeiou".
+
+21:10:29.900 * The word "gauge" has "3" vowels.
+
+21:10:29.903 ## Vowel counts in multiple word
+21:10:29.904 * Vowels in English language are "aeiou".
+
+21:10:29.905 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:10:29.906 * foo
+21:10:29.908 # Specification Heading
+21:10:29.909 ## Scenario Heading
+21:10:29.910 * goo
+
+21:10:29.911 * hoo
+21:10:30.014 Plugin [Html Report] with pid [82599] has exited
+21:10:30.118 Specifications:	2 executed	2 passed	0 failed	0 skipped
+21:10:30.118 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+21:10:30.118 
+Total time taken: 78ms
+21:11:23.658 Checking updates...
+21:11:26.124 # Specification Heading
+21:11:26.125 ## Vowel counts in single word
+21:11:26.125 * Vowels in English language are "aeiou".
+
+21:11:26.133 * The word "gauge" has "3" vowels.
+
+21:11:26.137 ## Vowel counts in multiple word
+21:11:26.137 * Vowels in English language are "aeiou".
+
+21:11:26.138 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:11:26.140 * foo
+21:11:26.141 # Specification Heading
+21:11:26.142 ## Scenario Heading
+21:11:26.143 * goo
+
+21:11:26.143 * hoo
+21:11:26.250 Plugin [Html Report] with pid [82713] has exited
+21:11:26.351 Specifications:	2 executed	2 passed	0 failed	0 skipped
+21:11:26.351 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+21:11:26.351 
+Total time taken: 82ms
+21:16:15.468 Checking updates...
+21:16:15.723 # Specification Heading
+21:16:15.724 ## Vowel counts in single word
+21:16:15.724 * Vowels in English language are "aeiou".
+
+21:16:15.733 * The word "gauge" has "3" vowels.
+
+21:16:15.737 ## Vowel counts in multiple word
+21:16:15.738 * Vowels in English language are "aeiou".
+
+21:16:15.739 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:16:15.742 * foo
+21:16:15.745 # Specification Heading
+21:16:15.745 ## Scenario Heading
+21:16:15.746 * goo
+
+21:16:15.747 * hoo
+
+21:16:15.750 * ioo
+21:16:15.855 Plugin [Html Report] with pid [83039] has exited
+21:16:15.958 Specifications:	2 executed	2 passed	0 failed	0 skipped
+21:16:15.958 Scenarios:	3 executed	3 passed	0 failed	0 skipped
+21:16:15.958 
+Total time taken: 81ms
+21:17:57.966 Checking updates...
+21:18:00.158 # Specification Heading
+21:18:00.159 ## Vowel counts in single word
+21:18:00.159 * Vowels in English language are "aeiou".
+
+21:18:00.168 * The word "gauge" has "3" vowels.
+
+21:18:00.171 ## Vowel counts in multiple word
+21:18:00.171 * Vowels in English language are "aeiou".
+
+21:18:00.172 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:18:00.174 * foo
+21:18:00.175 # Specification Heading
+21:18:00.176 ## Scenario Heading
+21:18:00.176 * goo
+
+21:18:00.177 * hoo
+
+21:18:00.178 * ioo
+21:18:00.179 # Specification Heading
+21:18:00.179 ## Scenario Heading
+21:18:00.179 * a fish in water
+21:18:00.285 Plugin [Html Report] with pid [83188] has exited
+21:18:00.389 Specifications:	3 executed	3 passed	0 failed	0 skipped
+21:18:00.389 Scenarios:	4 executed	4 passed	0 failed	0 skipped
+21:18:00.389 
+Total time taken: 84ms
+21:18:38.881 Checking updates...
+21:18:48.965 Error starting plugin Html Report 2.1.1. Failed to connect to plugin. Timed out connecting to [::]:53231
+21:18:48.972 # Specification Heading
+21:18:48.972 ## Vowel counts in single word
+21:18:48.973 * Vowels in English language are "aeiou".
+
+21:18:48.981 * The word "gauge" has "3" vowels.
+
+21:18:48.984 ## Vowel counts in multiple word
+21:18:48.984 * Vowels in English language are "aeiou".
+
+21:18:48.985 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:18:48.987 * foo
+21:18:48.989 # Specification Heading
+21:18:48.989 ## Scenario Heading
+21:18:48.989 * goo
+
+21:18:48.990 * hoo
+
+21:18:48.991 * ioo
+21:18:48.993 # Specification Heading
+21:18:48.993 ## Scenario Heading
+21:18:48.993 * a fish in water
+21:18:49.099 Specifications:	3 executed	3 passed	0 failed	0 skipped
+21:18:49.099 Scenarios:	4 executed	4 passed	0 failed	0 skipped
+21:18:49.099 
+Total time taken: 10.037s
+21:19:32.519 Checking updates...
+21:19:32.977 # Specification Heading
+21:19:32.978 ## Vowel counts in single word
+21:19:32.979 * Vowels in English language are "aeiou".
+
+21:19:32.991 * The word "gauge" has "3" vowels.
+
+21:19:32.995 ## Vowel counts in multiple word
+21:19:32.995 * Vowels in English language are "aeiou".
+
+21:19:32.996 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:19:32.999 * foo
+21:19:33.001 # Specification Heading
+21:19:33.002 ## Scenario Heading
+21:19:33.002 * goo
+
+21:19:33.003 * hoo
+
+21:19:33.005 * ioo
+21:19:33.007 # Specification Heading
+21:19:33.008 ## Scenario Heading
+21:19:33.008 * a fish in water
+21:19:33.116 Plugin [Html Report] with pid [83510] has exited
+21:19:33.220 Specifications:	3 executed	3 passed	0 failed	0 skipped
+21:19:33.220 Scenarios:	4 executed	4 passed	0 failed	0 skipped
+21:19:33.220 
+Total time taken: 92ms
+21:26:59.797 Got a kill message. Killing runner.
+21:27:03.798 Killing runner with PID:83918 forcefully
+21:49:33.924 Got a kill message. Killing runner.
+21:49:55.533 Got a kill message. Killing runner.
+21:52:09.367 Checking updates...
+21:52:11.842 # Specification Heading
+21:52:11.842 ## Vowel counts in single word
+21:52:11.843 * Vowels in English language are "aeiou".
+
+21:52:11.851 * The word "gauge" has "3" vowels.
+
+21:52:11.854 ## Vowel counts in multiple word
+21:52:11.854 * Vowels in English language are "aeiou".
+
+21:52:11.855 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:52:11.857 * foo
+21:52:11.858 # Specification Heading
+21:52:11.858 ## Scenario Heading
+21:52:11.859 * goo
+
+21:52:11.859 * hoo
+
+21:52:11.860 * ioo
+21:52:11.861 # Specification Heading
+21:52:11.862 ## Scenario Heading
+21:52:11.862 * a fish in water
+21:52:13.129 
+Failed Step: a fish in water
+21:52:13.129 Specification: specs/zamoo.spec:11
+21:52:13.129 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+21:52:13.129 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:11)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+21:52:13.233 Plugin [Html Report] with pid [86384] has exited
+21:52:13.646 Specifications:	3 executed	2 passed	1 failed	0 skipped
+21:52:13.646 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+21:52:13.646 
+Total time taken: 1.344s
+21:52:26.233 Checking updates...
+21:52:26.530 # Specification Heading
+21:52:26.531 ## Vowel counts in single word
+21:52:26.531 * Vowels in English language are "aeiou".
+
+21:52:26.538 * The word "gauge" has "3" vowels.
+
+21:52:26.542 ## Vowel counts in multiple word
+21:52:26.542 * Vowels in English language are "aeiou".
+
+21:52:26.543 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:52:26.545 * foo
+21:52:26.547 # Specification Heading
+21:52:26.547 ## Scenario Heading
+21:52:26.548 * goo
+
+21:52:26.549 * hoo
+
+21:52:26.550 * ioo
+21:52:26.551 # Specification Heading
+21:52:26.551 ## Scenario Heading
+21:52:26.552 * a fish in water
+21:52:27.304 
+Failed Step: a fish in water
+21:52:27.304 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+21:52:27.304 Specification: specs/zamoo.spec:11
+21:52:27.304 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:11)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+21:52:27.410 Plugin [Html Report] with pid [86465] has exited
+21:52:27.826 Specifications:	3 executed	2 passed	1 failed	0 skipped
+21:52:27.826 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+21:52:27.826 
+Total time taken: 793ms
+21:52:45.840 Checking updates...
+21:52:46.139 # Specification Heading
+21:52:46.139 ## Vowel counts in single word
+21:52:46.140 * Vowels in English language are "aeiou".
+
+21:52:46.148 * The word "gauge" has "3" vowels.
+
+21:52:46.151 ## Vowel counts in multiple word
+21:52:46.152 * Vowels in English language are "aeiou".
+
+21:52:46.153 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+21:52:46.161 * foo
+21:52:46.164 # Specification Heading
+21:52:46.165 ## Scenario Heading
+21:52:46.165 * goo
+
+21:52:46.166 * hoo
+
+21:52:46.167 * ioo
+21:52:46.169 # Specification Heading
+21:52:46.170 ## Scenario Heading
+21:52:46.170 * a fish in water
+21:52:46.851 
+Failed Step: a fish in water
+21:52:46.851 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+21:52:46.851 Specification: specs/zamoo.spec:11
+21:52:46.851 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:11)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+21:52:46.956 Plugin [Html Report] with pid [86554] has exited
+21:52:47.371 Specifications:	3 executed	2 passed	1 failed	0 skipped
+21:52:47.371 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+21:52:47.371 
+Total time taken: 723ms
+21:53:56.772 csharp
+21:53:56.772 java
+21:53:56.772 java_demo
+21:53:56.772 java_maven
+21:53:56.772 java_maven_selenium
+21:53:56.772 js
+21:53:56.772 ruby
+21:53:56.772 ruby_selenium
+21:53:56.772 
+Run `gauge --init <template_name>` to create a new Gauge project.
+22:05:18.272 Checking updates...
+22:05:49.539 Checking updates...
+22:05:49.840 # Specification Heading
+22:05:49.841 ## Vowel counts in single word
+22:05:49.841 * Vowels in English language are "aeiou".
+
+22:05:49.849 * The word "gauge" has "3" vowels.
+
+22:05:49.852 ## Vowel counts in multiple word
+22:05:49.852 * Vowels in English language are "aeiou".
+
+22:05:49.853 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:05:49.855 * foo
+22:05:49.857 # Specification Heading
+22:05:49.857 ## Scenario Heading
+22:05:49.858 * goo
+
+22:05:49.858 * hoo
+
+22:05:49.859 * ioo
+22:05:49.860 # Specification Heading
+22:05:49.861 ## Scenario Heading
+22:05:49.861 * a fish in water
+22:05:50.781 
+Failed Step: a fish in water
+22:05:50.781 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:05:50.781 Specification: specs/zamoo.spec:11
+22:05:50.781 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:11)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:05:50.883 Plugin [Html Report] with pid [88010] has exited
+22:05:51.295 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:05:51.295 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:05:51.295 
+Total time taken: 960ms
+22:08:37.522 Checking updates...
+22:08:58.451 Checking updates...
+22:08:58.910 # Specification Heading
+22:08:58.911 ## Vowel counts in single word
+22:08:58.912 * Vowels in English language are "aeiou".
+
+22:08:58.920 * The word "gauge" has "3" vowels.
+
+22:08:58.923 ## Vowel counts in multiple word
+22:08:58.924 * Vowels in English language are "aeiou".
+
+22:08:58.925 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:08:58.927 * foo
+22:08:58.929 # Specification Heading
+22:08:58.930 ## Scenario Heading
+22:08:58.930 * goo
+
+22:08:58.931 * hoo
+
+22:08:58.932 * ioo
+22:08:58.934 # Specification Heading
+22:08:58.934 ## Scenario Heading
+22:08:58.934 * a fish in water
+22:08:59.760 
+Failed Step: a fish in water
+22:08:59.760 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:08:59.760 Specification: specs/zamoo.spec:11
+22:08:59.760 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:11)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:08:59.863 Plugin [Html Report] with pid [88341] has exited
+22:09:00.278 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:09:00.278 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:09:00.278 
+Total time taken: 916ms
+22:09:06.707 Runner connection error: Timed out connecting to [::]:55857
+22:09:06.707 Error while killing runner: os: process already finished
+22:13:07.271 Checking updates...
+22:13:09.534 # Specification Heading
+22:13:09.535 ## Vowel counts in single word
+22:13:09.536 * Vowels in English language are "aeiou".
+
+22:13:09.544 * The word "gauge" has "3" vowels.
+
+22:13:09.547 ## Vowel counts in multiple word
+22:13:09.548 * Vowels in English language are "aeiou".
+
+22:13:09.548 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:13:09.550 * foo
+22:13:09.552 # Specification Heading
+22:13:09.552 ## Scenario Heading
+22:13:09.552 * goo
+
+22:13:09.553 * hoo
+
+22:13:09.554 * ioo
+22:13:09.555 # Specification Heading
+22:13:09.555 ## Scenario Heading
+22:13:09.555 * a fish in water
+22:13:10.263 
+Failed Step: a fish in water
+22:13:10.263 Specification: specs/zamoo.spec:11
+22:13:10.263 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:13:10.263 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:11)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:13:10.369 Plugin [Html Report] with pid [88621] has exited
+22:13:10.785 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:13:10.785 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:13:10.785 
+Total time taken: 741ms
+22:13:36.255 Checking updates...
+22:13:38.553 # Specification Heading
+22:13:38.553 ## Vowel counts in single word
+22:13:38.554 * Vowels in English language are "aeiou".
+
+22:13:38.562 * The word "gauge" has "3" vowels.
+
+22:13:38.565 ## Vowel counts in multiple word
+22:13:38.565 * Vowels in English language are "aeiou".
+
+22:13:38.566 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:13:38.568 * foo
+22:13:38.569 # Specification Heading
+22:13:38.569 ## Scenario Heading
+22:13:38.570 * goo
+
+22:13:38.571 * hoo
+
+22:13:38.571 * ioo
+22:13:38.572 # Specification Heading
+22:13:38.573 ## Scenario Heading
+22:13:38.573 * a fish in water
+22:13:39.364 
+Failed Step: a fish in water
+22:13:39.364 Specification: specs/zamoo.spec:11
+22:13:39.364 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:13:39.364 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:12)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:13:39.466 Plugin [Html Report] with pid [88701] has exited
+22:13:39.881 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:13:39.881 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:13:39.881 
+Total time taken: 825ms
+22:14:00.849 Checking updates...
+22:14:03.118 # Specification Heading
+22:14:03.119 ## Vowel counts in single word
+22:14:03.120 * Vowels in English language are "aeiou".
+
+22:14:03.127 * The word "gauge" has "3" vowels.
+
+22:14:03.130 ## Vowel counts in multiple word
+22:14:03.130 * Vowels in English language are "aeiou".
+
+22:14:03.131 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:14:03.132 * foo
+22:14:03.134 # Specification Heading
+22:14:03.134 ## Scenario Heading
+22:14:03.134 * goo
+
+22:14:03.135 * hoo
+
+22:14:03.136 * ioo
+22:14:03.137 # Specification Heading
+22:14:03.137 ## Scenario Heading
+22:14:03.137 * a fish in water
+22:14:03.967 
+Failed Step: a fish in water
+22:14:03.967 Specification: specs/zamoo.spec:11
+22:14:03.967 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:14:03.967 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:12)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:14:04.071 Plugin [Html Report] with pid [88777] has exited
+22:14:04.483 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:14:04.483 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:14:04.483 
+Total time taken: 860ms
+22:14:20.145 Checking updates...
+22:14:22.602 # Specification Heading
+22:14:22.602 ## Vowel counts in single word
+22:14:22.603 * Vowels in English language are "aeiou".
+
+22:14:22.610 * The word "gauge" has "3" vowels.
+
+22:14:22.613 ## Vowel counts in multiple word
+22:14:22.613 * Vowels in English language are "aeiou".
+
+22:14:22.614 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:14:22.616 * foo
+22:14:22.617 # Specification Heading
+22:14:22.618 ## Scenario Heading
+22:14:22.618 * goo
+
+22:14:22.619 * hoo
+
+22:14:22.619 * ioo
+22:14:22.620 # Specification Heading
+22:14:22.621 ## Scenario Heading
+22:14:22.621 * a fish in water
+22:14:23.350 
+Failed Step: a fish in water
+22:14:23.350 Specification: specs/zamoo.spec:11
+22:14:23.350 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:14:23.351 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:12)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:14:23.457 Plugin [Html Report] with pid [88849] has exited
+22:14:23.868 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:14:23.868 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:14:23.869 
+Total time taken: 761ms
+22:14:48.889 Checking updates...
+22:14:51.131 # Specification Heading
+22:14:51.132 ## Vowel counts in single word
+22:14:51.132 * Vowels in English language are "aeiou".
+
+22:14:51.140 * The word "gauge" has "3" vowels.
+
+22:14:51.143 ## Vowel counts in multiple word
+22:14:51.143 * Vowels in English language are "aeiou".
+
+22:14:51.144 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:14:51.146 * foo
+22:14:51.147 # Specification Heading
+22:14:51.148 ## Scenario Heading
+22:14:51.148 * goo
+
+22:14:51.149 * hoo
+
+22:14:51.150 * ioo
+22:14:51.151 # Specification Heading
+22:14:51.151 ## Scenario Heading
+22:14:51.151 * a fish in water
+22:14:51.859 
+Failed Step: a fish in water
+22:14:51.859 Specification: specs/zamoo.spec:11
+22:14:51.859 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:14:51.859 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:12)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:14:51.963 Plugin [Html Report] with pid [88926] has exited
+22:14:52.376 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:14:52.376 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:14:52.376 
+Total time taken: 740ms
+22:21:56.185 Checking updates...
+22:21:58.407 # Specification Heading
+22:21:58.408 ## Vowel counts in single word
+22:21:58.409 * Vowels in English language are "aeiou".
+
+22:21:58.416 * The word "gauge" has "3" vowels.
+
+22:21:58.419 ## Vowel counts in multiple word
+22:21:58.419 * Vowels in English language are "aeiou".
+
+22:21:58.420 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:21:58.422 * foo
+22:21:58.423 # Specification Heading
+22:21:58.423 ## Scenario Heading
+22:21:58.424 * goo
+
+22:21:58.424 * hoo
+
+22:21:58.425 * ioo
+22:21:58.426 # Specification Heading
+22:21:58.427 ## Scenario Heading
+22:21:58.427 * a fish in water
+22:21:59.511 
+Failed Step: a fish in water
+22:21:59.511 Specification: specs/zamoo.spec:11
+22:21:59.511 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+22:21:59.511 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:120)
+stepImpl.FishInWaterImpl.implementation1(stepImpl.FishInWaterImpl.java:12)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:483)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:32)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:114)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:81)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:62)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:42)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:31)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:34)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:72)
+com.thoughtworks.gauge.GaugeRuntime.main(GaugeRuntime.java:37)
+22:21:59.615 Plugin [Html Report] with pid [89355] has exited
+22:22:00.028 Specifications:	3 executed	2 passed	1 failed	0 skipped
+22:22:00.029 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+22:22:00.029 
+Total time taken: 1.169s
+22:23:42.153 Checking updates...
+22:23:44.254 # Specification Heading
+22:23:44.255 ## Vowel counts in single word
+22:23:44.255 * Vowels in English language are "aeiou".
+
+22:23:44.263 * The word "gauge" has "3" vowels.
+
+22:23:44.266 ## Vowel counts in multiple word
+22:23:44.266 * Vowels in English language are "aeiou".
+
+22:23:44.267 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:23:44.268 * foo
+22:23:44.270 # Specification Heading
+22:23:44.270 ## Scenario Heading
+22:23:44.270 * goo
+
+22:23:44.271 * hoo
+
+22:23:44.272 * ioo
+22:23:44.273 # Specification Heading
+22:23:44.273 ## Scenario Heading
+22:23:44.274 * a fish in water
+22:23:50.639 Plugin [Html Report] with pid [89500] has exited
+22:23:51.053 Specifications:	3 executed	3 passed	0 failed	0 skipped
+22:23:51.053 Scenarios:	4 executed	4 passed	0 failed	0 skipped
+22:23:51.053 
+Total time taken: 6.292s
+22:25:48.090 Checking updates...
+22:25:50.356 # Specification Heading
+22:25:50.356 ## Vowel counts in single word
+22:25:50.357 * Vowels in English language are "aeiou".
+
+22:25:50.365 * The word "gauge" has "3" vowels.
+
+22:25:50.367 ## Vowel counts in multiple word
+22:25:50.368 * Vowels in English language are "aeiou".
+
+22:25:50.369 * Almost all words have vowels 
+
+     |Word  |Vowel Count|
+     |------|-----------|
+     |Gauge |3          |
+     |Mingle|2          |
+     |Snap  |1          |
+     |GoCD  |1          |
+     |Rhythm|0          |
+22:25:50.371 * foo
+22:25:50.372 # Specification Heading
+22:25:50.372 ## Scenario Heading
+22:25:50.373 * goo
+
+22:25:50.374 * hoo
+
+22:25:50.374 * ioo
+22:25:50.375 # Specification Heading
+22:25:50.376 ## Scenario Heading
+22:25:50.376 * a fish in water
+22:25:56.102 Plugin [Html Report] with pid [89691] has exited
+22:25:56.518 Specifications:	3 executed	3 passed	0 failed	0 skipped
+22:25:56.518 Scenarios:	4 executed	4 passed	0 failed	0 skipped
+22:25:56.518 
+Total time taken: 5.654s

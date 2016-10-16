@@ -1,0 +1,7 @@
+{
+	"Flags": {
+		"-env": "web",
+		"-simple-console": "true"
+	},
+	"FailedItems": []
+}
